@@ -1,0 +1,30 @@
+👋 I'm Patrik. 
+
+My [personal website is here](https://patriksvensson.se) and I'm on 
+Twitter at [***@firstdrafthell***](https://twitter.com/firstdrafthell).
+
+---
+
+I work on projects for the .NET and Rust ecosystem like 
+🍰 [Cake](https://github.com/cake-build/cake), 
+🦆 [Duck](https://github.com/duckhq/duck),
+[Spectre.Console](https://github.com/spectresystems/spectre.console), 
+[Spectre.Cli](https://github.com/spectresystems/spectre.cli), 
+[Spectre.IO](https://github.com/spectresystems/spectre.io), 
+[Snitch](https://github.com/spectresystems/snitch), 
+[Jarvis](https://github.com/spectresystems/jarvis), and
+[Ghostly](https://github.com/spectresystems/ghostly) 
+amongst other things.
+
+---
+
+Sometimes, I also blog.
+
+{{ for item in rss -}}
+* {{ item.publish_date | date.to_string `%Y-%m-%d` }}: [{{ item.title -}}]({{ item.feed_url -}})
+{{ end }}
+
+---
+
+If you like what I do, you can always 
+♥ [sponsor](https://github.com/sponsors/patriksvensson) me.
