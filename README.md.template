@@ -6,10 +6,11 @@ Twitter at [***@firstdrafthell***](https://twitter.com/firstdrafthell).
 ---
 
 I work on projects for the .NET and Rust ecosystem like 
-🍰 [Cake](https://github.com/cake-build/cake), 
-🦆 [Duck](https://github.com/duckhq/duck),
-[Spectre.Console](https://github.com/spectresystems/spectre.console), 
-[Spectre.Cli](https://github.com/spectresystems/spectre.cli), 
+[Cake](https://github.com/cake-build/cake), 
+[Spectre.Console](https://github.com/spectreconsole/spectre.console), 
+[Errata](https://github.com/spectreconsole/errata),
+[Cupboard](https://github.com/patriksvensson/cupboard),
+[Duck](https://github.com/duckhq/duck),
 [Spectre.IO](https://github.com/spectresystems/spectre.io), 
 [Snitch](https://github.com/spectresystems/snitch), 
 [Jarvis](https://github.com/spectresystems/jarvis), and
