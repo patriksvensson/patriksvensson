@@ -9,12 +9,12 @@ I work on projects for the .NET and Rust ecosystem like
 [Cake](https://github.com/cake-build/cake), 
 [Spectre.Console](https://github.com/spectreconsole/spectre.console), 
 [Errata](https://github.com/spectreconsole/errata),
-[Cupboard](https://github.com/patriksvensson/cupboard),
+[Cupboard](https://github.com/cupboard-project/cupboard),
+[Ghostly](https://github.com/patriksvensson/ghostly) 
 [Duck](https://github.com/duckhq/duck),
 [Spectre.IO](https://github.com/spectresystems/spectre.io), 
-[Snitch](https://github.com/spectresystems/snitch), 
 [Jarvis](https://github.com/spectresystems/jarvis), and
-[Ghostly](https://github.com/spectresystems/ghostly) 
+[Snitch](https://github.com/spectresystems/snitch), 
 amongst other things.
 
 ---
