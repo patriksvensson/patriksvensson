@@ -1,6 +1,7 @@
 ﻿using Microsoft.Toolkit.Parsers.Rss;
 using Scriban;
-using Spectre.Cli;
+using Spectre.Console;
+using Spectre.Console.Cli;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
@@ -32,7 +33,7 @@ namespace Generator.Commands
         {
             // Parse the RSS
             using var client = new HttpClient();
-            var xml = await client.GetStringAsync("https://patriksvensson.se/rss.xml");
+            var xml = await client.GetStringAsync("https://patriksvensson.se/feed.xml");
             var parser = new RssParser();
             var rss = parser.Parse(xml).Take(5).ToList();
 

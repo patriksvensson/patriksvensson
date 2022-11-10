@@ -1,6 +1,6 @@
 ﻿using Generator.Commands;
 using Microsoft.Toolkit.Parsers.Rss;
-using Spectre.Cli;
+using Spectre.Console.Cli;
 using System;
 using System.Linq;
 using System.Net.Http;
