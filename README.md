@@ -1,7 +1,8 @@
 👋 I'm Patrik. 
 
-My [personal website is here](https://patriksvensson.se) and I'm on 
-Twitter at [***@firstdrafthell***](https://twitter.com/firstdrafthell).
+**Website:** https://patriksvensson.se  
+**Twitter:** [@firstdrafthell](https://twitter.com/firstdrafthell)  
+**Mastodon:** [@patriksvensson@mstdn.social](https://mstdn.social/@patriksvensson)
 
 ---
 
