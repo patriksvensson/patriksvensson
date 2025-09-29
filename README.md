@@ -1,7 +1,7 @@
 👋 I'm Patrik. 
 
 **Website:** https://patriksvensson.se  
-**Bluesky** [patriksvensson.se](https://bsky.app/profile/patriksvensson.se)
+**Bluesky** [patriksvensson.se](https://bsky.app/profile/patriksvensson.se)  
 **Mastodon:** [@patriksvensson@mstdn.social](https://mstdn.social/@patriksvensson)
 
 ---
